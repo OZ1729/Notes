@@ -45,8 +45,8 @@
 	- Stateful firewalls allow return traffic automatically.
 	- Stateless firewalls check for an allow rule each time(for both initial and return trip)
 
-
 	### AWS Public and Private Services
+	- 
 
 	### Install AWS Command Line Interface (CLI)
 
