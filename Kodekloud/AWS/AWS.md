@@ -72,12 +72,13 @@ when the instance is created.
 a private IP address associated with it in order to communicate with the resources within the subnet.
 -- Public subnets use internet gateway directly to access external resources
 -- Private subnets have to utilize NAT(Network Address Translation) gateways to communicate with internet gateway.
--- Private IPs cannot directly communicate with internet gateway.
+-- Private IPs cannot directly communicate with internet gateway. 
 ----
 
 	
 #### Launching an Amazon EC2 Instance
--
+- Log into AWS management console is the most user friendly way to accomplish most tasks, including creating respurces.
+- It is also possible to use AWS CLI to accomplish this and it is not complicated, but easy to make config errors.
 	
 #### Connecting to an Amazon EC2 Instance
 -
