@@ -46,11 +46,33 @@
 	- Stateless firewalls check for an allow rule each time(for both initial and return trip)
 
 	### AWS Public and Private Services
-	- 
+	- To communicate between public and private services, traffic must be routed through the VPC 
+	internet gateway
+	- Can utilize VPC endpoints on some services to bypass this requirement.
 
 	### Install AWS Command Line Interface (CLI)
+	- Check version 'aws --version'
+	
 
 ## Amazon Elastic Compute Cloud (EC2)
+
+	### Amazon EC2 Overview
+	
+	### Launching an Amazon EC2 Instance
+	
+	### Connecting to an Amazon EC2 Instance
+	
+	### Create a Website Using User Data
+	
+	### Using Access Keys with EC2
+	
+	### Using IAM Roles with EC2
+	
+	### Scale Elastically with Amazon EC2 Auto Scaling
+	
+	### Create a Target Tracking Scaling Policy
+	
+	### Add Load Balancing with Amazon ELB
 
 ## AWS Storage Services
 
