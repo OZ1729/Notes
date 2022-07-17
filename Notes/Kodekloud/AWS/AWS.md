@@ -65,10 +65,14 @@ interface, an OS, and specified applications.
 |Associated with a private IP on the instance| | Can be moved between instances|
 |Cannot be moved between instances| | |
 
--- Render the above table for proper formatting.
+-- Render the file for proper formatting of the above table.
 - EC2 instances always have a private IP address. This address is assigned from the block of availbale IPs specified
 when the instance is created.
-- This IP address is used internally.
+- This IP address is used internally and is static so it won't change. Both public and elastic IP addresses will have
+a private IP address associated with it in order to communicate with the resources within the subnet.
+-- Public subnets use internet gateway directly to access external resources
+-- Private subnets have to utilize NAT(Network Address Translation) gateways to communicate with internet gateway.
+-- Private IPs cannot directly communicate with internet gateway.
 ----
 
 	
