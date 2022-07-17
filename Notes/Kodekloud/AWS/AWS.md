@@ -1,4 +1,5 @@
 # 										AWS 
+- [Google drive notes w/ screenshots](https://drive.google.com/drive/u/0/folders/1HcptrMI7-_dcfh_NF7D7bZkHReEedHkQ)
 ---
 ## AWS Basics
 
@@ -49,9 +50,27 @@
 ----	
 
 ## Amazon Elastic Compute Cloud (EC2)
-Amazon EC2 is 
+ -- Amazon EC2 is a compute service that allows you to run virtualized servers on AWS. One of the oldest Amazon services
 #### Amazon EC2 Overview
--
+- EC2 products are called instances
+- An instance is very similar to a virtual machine. They are allocated parts of the CPU, RAM, drive space, a network 
+interface, an OS, and specified applications. 
+- An instance requires an IP adress and there are 3 options available
+
+| Public IP | Private IP | Elastic IP |
+|-----------|------------| -----------|
+|Lost when instance is stopped| Retained when instance is stopped| Static Public IP address|
+|Used in public subnets| Used in Public and Private subnets| Charged if not used|
+|No charge| |Associated with a private IP address on the instance|
+|Associated with a private IP on the instance| | Can be moved between instances|
+|Cannot be moved between instances| | |
+
+-- Render the above table for proper formatting.
+- EC2 instances always have a private IP address. This address is assigned from the block of availbale IPs specified
+when the instance is created.
+- This IP address is used internally.
+----
+
 	
 #### Launching an Amazon EC2 Instance
 -
