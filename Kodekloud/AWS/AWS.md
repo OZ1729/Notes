@@ -86,6 +86,7 @@ a private IP address associated with it in order to communicate with the resourc
 - Difference in connecting with Windows, Linux, or Mac.
 - If using Linux or Mac, there are some commands that need to be run in order to connect to the instance. It is a 'chmod 400' command 
 for the file containing the key pair info associated with the instance.
+- Can connect through the shell in Linux or Mac. Can use AWS console or Putty(or similar) to connect on Windows
 - [The guide for connections](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
 	
 #### Create a Website Using User Data
