@@ -96,7 +96,7 @@ for the file containing the key pair info associated with the instance.
 - [Amazon documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)
 	
 #### Using IAM Roles with EC2
--[Amazon documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-iam.html)
+- [Amazon documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-iam.html)
 - IAM role is assumed by EC2 instance. How the instance can access the S3 bucket, or other Amazon services.
 - Roles are established in the AWS console within the IAM module.
 - 
