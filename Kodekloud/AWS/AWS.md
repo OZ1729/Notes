@@ -90,7 +90,7 @@ for the file containing the key pair info associated with the instance.
 - [The guide for connections](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
 	
 #### Create a Website Using User Data
--[Amazon documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
+- [Amazon documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
 	
 #### Using Access Keys with EC2
 - [Amazon documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)
