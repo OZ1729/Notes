@@ -1,5 +1,6 @@
 # 										AWS 
 - [Google drive notes w/ screenshots](https://drive.google.com/drive/u/0/folders/1HcptrMI7-_dcfh_NF7D7bZkHReEedHkQ)
+- [Amazon user guides for EC2 usage](https://docs.aws.amazon.com/ec2/index.html)
 ---
 ## AWS Basics
 
@@ -79,9 +80,13 @@ a private IP address associated with it in order to communicate with the resourc
 #### Launching an Amazon EC2 Instance
 - Log into AWS management console is the most user friendly way to accomplish most tasks, including creating respurces.
 - It is also possible to use AWS CLI to accomplish this and it is not complicated, but easy to make config errors.
+- [Amazon EC2 Launch Documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/LaunchingAndUsingInstances.html)
 	
 #### Connecting to an Amazon EC2 Instance
--
+- Difference in connecting with Windows, Linux, or Mac.
+- If using Linux or Mac, there are some commands that need to be run in order to connect to the instance. It is a 'chmod 400' command 
+for the file containing the key pair info associated with the instance.
+- [The guide for connections](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
 	
 #### Create a Website Using User Data
 -
