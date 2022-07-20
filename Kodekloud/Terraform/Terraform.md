@@ -36,8 +36,8 @@
 - Terraform is platform agnostic while Cloudformation is AWS specific
 -----
 
-#### 
-- 
+#### HCL Basics
+- [HCL syntax and structure documentation](https://www.terraform.io/language)
 
 #### Create IAM User and Group
 - 
