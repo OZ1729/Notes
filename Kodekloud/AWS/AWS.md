@@ -101,6 +101,7 @@ for the file containing the key pair info associated with the instance.
 - Roles are established in the AWS console within the IAM module.
 	
 #### Scale Elastically with Amazon EC2 Auto Scaling
+- [Amazon User Guide](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
 - Auto launch and kill EC2 instances based on defined parameters.
 - Amazon Cloudwatch enables easy monitoring and configuring of scaling instances.
 - Cloudwatch serves as the catalyst of change based on metrics, commanding the auto scale group
@@ -110,7 +111,10 @@ for the file containing the key pair info associated with the instance.
 -
 	
 #### Add Load Balancing with Amazon ELB
--
+- Load balancers route traffic and monitors health checks of instances and takes instances out of 
+service if failing.
+- Communicates with auto scaling group and can create robust systems
+
 
 ## AWS Storage Services
 
