@@ -16,15 +16,27 @@
 
 | Configuration Management | Server Templating | Provisioning Tools |
 |-----------|------------| -----------|
-|Ansible| |Docker |Terraform     |
-|Puppet | |Packer |Cloudformation|
-|Salt   | |Vagrant|              |
+|Ansible| |Docker | |Terraform     |
+|Puppet | |Packer | |Cloudformation|
+|Salt   | |Vagrant| |              |
 
 ##### Configuration Management
 - Designed to install and manage software / Maintains standard structure
-- Version control / Idempotent
+- Version control
+- Idempotent-will only make changes if different from previous version
 
-#### IAM Overview
+##### Server Templating
+- Pre installed software and dependencies
+- VM or Docker images, custom AMIs
+- Immutable infrastructure, have to redploy each time a change is made
+
+##### Provisioning Tools
+- Deploy immutable infrasturcture
+- Serves, VPC, databases, network componenets, etc
+- Terraform is platform agnostic while Cloudformation is AWS specific
+-----
+
+#### 
 - 
 
 #### Create IAM User and Group
