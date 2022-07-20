@@ -16,9 +16,9 @@
 
 | Configuration Management | Server Templating | Provisioning Tools |
 |-----------|------------| -----------|
-|Ansible| |Docker | |Terraform     |
-|Puppet | |Packer | |Cloudformation|
-|Salt   | |Vagrant| |              |
+|Ansible  |Docker   |Terraform     |
+|Puppet   |Packer   |Cloudformation|
+|Salt     |Vagrant  |              |
 
 ##### Configuration Management
 - Designed to install and manage software / Maintains standard structure
