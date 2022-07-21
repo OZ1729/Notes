@@ -63,7 +63,7 @@
 - scheduler manages workload across nodes
 
 #### Setup Kubernetes
-- [Kubernetes install guides}(https://kubernetes.io/docs/setup/production-environment/tools/)
+- [Kubernetes install guides](https://kubernetes.io/docs/setup/production-environment/tools/)
 - [Different install options](https://kubernetes.io/docs/tasks/)
 
 #### Guides and install references
