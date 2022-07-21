@@ -66,10 +66,17 @@
 - [Kubernetes install guides}(https://kubernetes.io/docs/setup/production-environment/tools/)
 - [Different install options](https://kubernetes.io/docs/tasks/)
 
-#### 
-- 
+#### Guides and install references
+- [Install and set up the kubectl tool](https://kubernetes.io/docs/tasks/tools/)
 
-#### AWS Public and Private Services
+[Install Minikube](https://minikube.sigs.k8s.io/docs/start/)
+
+[Install VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
+[Linux VirtualBox Install](https://www.virtualbox.org/wiki/Linux_Downloads)
+
+[Minikube Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
+
+#### 
 - 
 
 #### Install AWS Command Line Interface (CLI)
