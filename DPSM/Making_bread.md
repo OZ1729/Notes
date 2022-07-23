@@ -1,0 +1,11 @@
+## Making bread
+- Identify which kind of bread is desired
+- Find a recipe
+- Gather ingredients for the bread
+- Prepare any utensils or appliances that are needed (mixer, oven, etc.)
+- Ensure oven is preheating to the desired temperature
+- Mix ingredients according to recipe to make a dough
+- Place dough into an appropriate container (usually a bread pan)
+- Place this container into pre-heated oven and set timer for appropriate time
+- Take the bread out of the oven and check to make sure it has finished and risen completely.
+- 

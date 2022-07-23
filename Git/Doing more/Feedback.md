@@ -1,0 +1,2 @@
+## Doing more with git feedback
+- Was not a fan of this lesson as I did not get alot out of this as it was very glitchy on my computer and it was not very structured. I was using Firefox and it took mulitple attempts to even get the scenarios to load and then it would not perform correctly. I ended up just using my Ubuntu environment on my virtual machine to complete the scenarios. Did not provide feedback on if the steps were being completed correctly.
