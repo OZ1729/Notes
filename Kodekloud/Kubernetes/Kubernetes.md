@@ -76,7 +76,7 @@
 
 [Minikube Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
 
-#### 
+#### Kubernetes Concepts
 - 
 
 #### Install AWS Command Line Interface (CLI)
