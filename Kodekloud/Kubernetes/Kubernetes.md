@@ -66,7 +66,7 @@
 - [Kubernetes install guides](https://kubernetes.io/docs/setup/production-environment/tools/)
 - [Different install options](https://kubernetes.io/docs/tasks/)
 
-#### Guides and install references
+#### Guides and Install References
 - [Install and set up the kubectl tool](https://kubernetes.io/docs/tasks/tools/)
 
 [Install Minikube](https://minikube.sigs.k8s.io/docs/start/)
@@ -77,9 +77,14 @@
 [Minikube Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
 
 #### Kubernetes Concepts
-- 
+- Pods
+-- A pod is a collection of nodes (or single node) that are grouped together and managed collectively.
 
-#### Install AWS Command Line Interface (CLI)
+#### A Note About Creating Pods
+- 
+-----
+
+#### YAML Introduction
 - 
 
 ----	
