@@ -111,12 +111,12 @@ To create a deployment using imperative command, use kubectl create:
 - Always contains
  
 ~~~
- {
+
     apiVersion: 
     kind: 
     metadata: 
     spec:
- }
+
 ~~~
 - Other fields are optional
  
