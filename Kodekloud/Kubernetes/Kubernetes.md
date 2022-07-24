@@ -69,16 +69,16 @@
 #### Guides and Install References
 - [Install and set up the kubectl tool](https://kubernetes.io/docs/tasks/tools/)
 
-[Install Minikube](https://minikube.sigs.k8s.io/docs/start/)
+- [Install Minikube](https://minikube.sigs.k8s.io/docs/start/)
 
-[Install VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
-[Linux VirtualBox Install](https://www.virtualbox.org/wiki/Linux_Downloads)
+- [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
+- [Linux VirtualBox Install](https://www.virtualbox.org/wiki/Linux_Downloads)
 
-[Minikube Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
+- [Minikube Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
 
 #### Kubernetes Concepts
 - Pods
--- A pod is a collection of nodes (or single node) that are grouped together and managed collectively.
+- -A pod is a collection of nodes (or single node) that are grouped together and managed collectively.
 
 #### A Note About Creating Pods
 - 
