@@ -110,14 +110,14 @@ To create a deployment using imperative command, use kubectl create:
 #### PODs with YAML
 - Always contains
  
-'''
+~~~
  {
     apiVersion: 
     kind: 
     metadata: 
     spec:
  }
-'''
+~~~
 - Other fields are optional
  
 #### Amazon EC2 Overview
