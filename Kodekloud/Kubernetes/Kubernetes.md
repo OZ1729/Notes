@@ -1,4 +1,4 @@
-# 										Kubernetes Basics
+# 						    Kubernetes Basics
 - [Google drive](https://drive.google.com/drive/u/0/folders/1evUcNb5bgY_7s8FiYEFQRlsGSeLlOcEQ?ths=true)
 - [Kubernetes documentation](https://kubernetes.io/docs/home/)
 ---
@@ -93,17 +93,29 @@ To create a pod from the command line, use the command:
 To create a deployment using imperative command, use kubectl create:
 
     kubectl create deployment nginx --image=nginx
-
+    
+- [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
+- [Pod Overview](https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/)
 
 -----
 
 #### YAML Introduction
-- 
+- Key: value structure, Array/lists, and Dictionary/map
+- Spacing is critical in YAML formatting and structuring
 
 ----	
 
-## Amazon Elastic Compute Cloud (EC2)
- -- 
+## Kubernetes Concepts – PODs, ReplicaSets, Deployments
+
+#### PODs with YAML
+- Always contains 
+    apiVersion: 
+    kind: 
+    metadata: 
+    
+    spec:
+     
+- Other fields are optional
  
 #### Amazon EC2 Overview
 - 
