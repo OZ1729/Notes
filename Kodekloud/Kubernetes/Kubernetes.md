@@ -108,14 +108,15 @@ To create a deployment using imperative command, use kubectl create:
 ## Kubernetes Concepts – PODs, ReplicaSets, Deployments
 
 #### PODs with YAML
-- Always contains 
+- Always contains
+ 
 '''
-{
+ {
     apiVersion: 
     kind: 
     metadata: 
     spec:
-}
+ }
 '''
 - Other fields are optional
  
