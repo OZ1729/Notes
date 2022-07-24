@@ -77,11 +77,24 @@
 - [Minikube Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
 
 #### Kubernetes Concepts
-###### Pods
+##### Pods
 - A pod is a collection of nodes (or single node) that are grouped together and managed collectively.
+- It is a single instance of an application.
+- A pod is the smallest object that you can create using Kubernetes.
 
-#### A Note About Creating Pods
-- 
+
+##### A Note About Creating Pods
+> A note about creating pods using kubectl run.
+To create a pod from the command line, use the command:
+
+    kubectl run nginx --image=nginx
+
+> As of version 1.18, kubectl run (without any arguments such as --generator ) will create a pod instead of a deployment.
+To create a deployment using imperative command, use kubectl create:
+
+    kubectl create deployment nginx --image=nginx
+
+
 -----
 
 #### YAML Introduction
