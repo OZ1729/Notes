@@ -77,8 +77,8 @@
 - [Minikube Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
 
 #### Kubernetes Concepts
-- Pods
-A pod is a collection of nodes (or single node) that are grouped together and managed collectively.
+###### Pods
+- A pod is a collection of nodes (or single node) that are grouped together and managed collectively.
 
 #### A Note About Creating Pods
 - 
